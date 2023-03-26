@@ -1,4 +1,4 @@
-### Olá! Eu sou o Developer Eros
+### Olá! Eu sou o Eros Henrique
 
 - 🔭 Desenvolvedor Back-end e Front-end
 - 🌱 Estudante web development
